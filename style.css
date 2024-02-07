@@ -418,10 +418,10 @@ svg:hover {
     object-fit: cover;
 }
 
-/* Additional styling for the button or any other elements */
+
 .footer {
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     margin-top: 80px;
     padding-top: 40px;
     margin-right: 80px;
@@ -429,16 +429,19 @@ svg:hover {
     line-height: 40px;
     padding-left: 100px;
     flex-wrap: nowrap;
+    
 }
 
 .content {
     margin-bottom: 20px;
+    
 }
 
 .contain {
     display: flex;
     justify-content: center;
     align-items: center;
+    
     color: gray;
 }
 
@@ -471,19 +474,45 @@ svg:hover {
     font-size: 18px;
     padding-bottom: 10px;
     font-weight: 500;
+    
 }
 
-.myapps {
-    width: 20%;
-    height: 10%;
+
  
-}
+
 
 .myapps .imgs1 {
     height: 35px;
 }
 
 
+
+@media screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .heading {
+        text-align: center; 
+    }
+
+   
+    .myapps {
+        width: 100%; 
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    
+}
 
 
 @media only screen and (max-width: 768px) {
