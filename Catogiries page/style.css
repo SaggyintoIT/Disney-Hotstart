@@ -306,11 +306,148 @@ video{
 
 
 
+
+@media screen and (max-width: 768px) {
+    .midsec {
+        padding-left: 2rem; 
+    }
+    
+    .carousel-cell {
+        width: 20%; 
+    }
+
+    .gridpic {
+        width: 120px; 
+        height: 160px; 
+        margin-right: 10px; 
+    }
+
+    .name {
+        font-size: 12px; 
+    }
+
+    .des {
+        font-size: 10px; 
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .midsec {
+        padding-left: 1rem; /
+    }
+    
+    .carousel-cell {
+        width: 30%; 
+    }
+
+    .gridpic {
+        width: 100px;
+        height: 140px; 
+        margin-right: 5px; 
+    }
+
+    .name {
+        font-size: 10px;
+    }
+
+    .des {
+        font-size: 8px; 
+}
+}
 @media screen and (max-width: 768px) {
     .footer {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        padding: 20px;
+    }
+
+    #con{
+        margin-left: 8rem;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .heading {
+        text-align: center; 
+    }
+
+   
+    .myapps {
+        width: 100%; 
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    #con{
+        margin-left: 8rem;
+    }
+
+    
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .nav {
+        width: 60px;
+    }
+    #con{
+        margin-left: 8rem;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .carousel-cell {
+        width: 20%; 
+    }
+    #con{
+        margin-left: 8rem;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .carousel-cell {
+        width: 30%; 
+    }
+    #con{
+        margin-left: 8rem;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .carousel-cell {
+        width: 40%; 
+    }
+
+    .nav {
+        width: 40px; 
+    }
+    #con{
+        margin-left: 8rem;
+    }
+
+
+    .heading {
+        font-size: 16px; 
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
         padding: 20px;
     }
 
@@ -409,4 +546,93 @@ video{
         font-size: 12px;
     }
 }
-    
+@media screen and (max-width: 360px) {
+    .footer {
+        padding: 10px;
+        margin-left: 70px; /* Adjusted margin-left */
+        text-align: center;
+        align-items: center;
+    }
+
+    #con {
+        margin-left: 7rem;
+    }
+
+    .carousel-cell {
+        width: 50%;
+    }
+
+    .nav {
+        width: 30px;
+    }
+
+    .heading {
+        font-size: 14px;
+    }
+
+    .content h3 {
+        font-size: 12px;
+    }
+
+    .content a {
+        font-size: 10px;
+    }
+
+    .content p {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+    ul li {
+        font-size: 14px; 
+    }
+
+    ul li p {
+        font-size: 10px;
+    }
+
+    .nav {
+        width: 60px;
+    }
+
+    .nav:hover {
+        width: 300px; 
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    ul li {
+        font-size: 12px; 
+    }
+
+    ul li p {
+        font-size: 8px; 
+    }
+
+    .nav {
+        width: 40px; 
+    }
+
+    .nav:hover {
+        width: 200px; 
+    }
+}
+@media screen and (max-width: 360px) {
+    ul li {
+        font-size: 10px; 
+    }
+
+    ul li p {
+        font-size: 6px; 
+    }
+
+    .nav {
+        width: 30px;
+    }
+
+    .nav:hover {
+        width: 150px; 
+    }
+
+}
