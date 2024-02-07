@@ -12,6 +12,7 @@ body {
     overflow: auto; /* Hide scroll bars */
     background-color: black;
     font-family: 'Inter', sans-serif;
+    width: 100%;
 }
 
 .header {
@@ -1025,9 +1026,21 @@ svg:hover {
     .nav {
         width: 40px; /* Adjust nav width for small mobile devices */
     }
+
     .heading {
-        font-size: 16px; /* Adjust heading font size for small
+        font-size: 16px; /* Adjust heading font size for small mobile devices */
     }
 
-} 
+    .content h3 {
+        font-size: 14px; /* Adjust content heading font size for small mobile devices */
+    }
+
+    .content a {
+        font-size: 12px; /* Adjust content link font size for small mobile devices */
+    }
+
+    .content p {
+        font-size: 12px; /* Adjust content paragraph font size for small mobile devices */
+    }
+}
     
