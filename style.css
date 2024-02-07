@@ -998,49 +998,107 @@ svg:hover {
     height: 35px;
 }
 
-/* Media Queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .heading {
+        text-align: center; 
+    }
+
+   
+    .myapps {
+        width: 100%; 
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    
+}
+
 
 @media only screen and (max-width: 768px) {
     .nav {
-        width: 60px; /* Adjust nav width for smaller screens */
+        width: 60px;
     }
 }
 
 @media only screen and (max-width: 1024px) {
     .carousel-cell {
-        width: 20%; /* Adjust carousel cell width for tablets */
+        width: 20%; 
     }
 }
 
 @media only screen and (max-width: 768px) {
     .carousel-cell {
-        width: 30%; /* Adjust carousel cell width for smaller screens */
+        width: 30%; 
     }
 }
 
 @media only screen and (max-width: 480px) {
     .carousel-cell {
-        width: 40%; /* Adjust carousel cell width for small mobile devices */
+        width: 40%; 
     }
 
     .nav {
-        width: 40px; /* Adjust nav width for small mobile devices */
+        width: 40px; 
     }
 
     .heading {
-        font-size: 16px; /* Adjust heading font size for small mobile devices */
+        font-size: 16px; 
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .nav {
+        width: 60px; 
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .carousel-cell {
+        width: 20%; 
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .carousel-cell {
+        width: 30%; 
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .carousel-cell {
+        width: 40%; 
+    }
+
+    .nav {
+        width: 40px; 
+    }
+
+    .heading {
+        font-size: 16px; 
     }
 
     .content h3 {
-        font-size: 14px; /* Adjust content heading font size for small mobile devices */
+        font-size: 14px; 
     }
 
     .content a {
-        font-size: 12px; /* Adjust content link font size for small mobile devices */
+        font-size: 12px; 
     }
 
     .content p {
-        font-size: 12px; /* Adjust content paragraph font size for small mobile devices */
+        font-size: 12px;
     }
 }
     

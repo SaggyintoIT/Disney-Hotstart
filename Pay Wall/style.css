@@ -34,7 +34,7 @@ body {
 }
 
 .language {
-    padding-left: 920px;
+    padding-left: 750px;
     font-size: 25px;
     color: white;
 }
@@ -84,7 +84,7 @@ button {
 .info {
     display: flex;
     flex-direction: column;
-    padding-left: 200px;
+    padding-left: 180px;
     row-gap: 5px;
     padding-top: 40px;
 }
@@ -107,7 +107,7 @@ button {
     width: 180px;
     background-color: rgba(163, 161, 161, 0.671);
     border-radius: 10px;
-    margin-left: 90px;
+    margin-left: 20px;
     margin-top: 20px;
     align-items: center;
 }
@@ -115,7 +115,7 @@ button {
 .p1 {
     color: goldenrod;
     padding-top: 5px;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .table i {
@@ -141,7 +141,7 @@ button {
     flex-direction: column;
     height: 500px;
     width: 180px;
-    margin-left: 40px;
+    margin-left: 20px;
     margin-top: 20px;
     align-items: center;
 }
@@ -281,3 +281,61 @@ button {
     top: 1340px;
 
 }
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding-left: 10px; /* Adjusted padding for responsiveness */
+        padding-right: 10px; /* Adjusted padding for responsiveness */
+    }
+
+    .language {
+        padding-left: 10px; /* Adjusted padding for responsiveness */
+        font-size: 18px; /* Adjusted font size for responsiveness */
+    }
+
+    .lan {
+        height: 40px; /* Adjusted height for responsiveness */
+        width: 100px; /* Adjusted width for responsiveness */
+        padding: 8px; /* Adjusted padding for responsiveness */
+        font-size: 16px; /* Adjusted font size for responsiveness */
+    }
+
+    .lan i {
+        padding-left: 5px; /* Adjusted padding for responsiveness */
+    }
+
+    button {
+        height: 50px; /* Adjusted height for responsiveness */
+        width: 100px; /* Adjusted width for responsiveness */
+        font-size: 18px; /* Adjusted font size for responsiveness */
+    }
+
+    .titles {
+        flex-direction: column; /* Adjusted direction for responsiveness */
+    }
+
+    .title {
+        margin: 25px 0; /* Adjusted margin for responsiveness */
+        width: 100%; /* Adjusted width for responsiveness */
+    }
+
+    .info {
+        padding-left: 10px; /* Adjusted padding for responsiveness */
+        padding-top: 10px; /* Adjusted padding for responsiveness */
+    }
+
+    .head-2 {
+        font-size: 16px; /* Adjusted font size for responsiveness */
+        padding-top: 10px; /* Adjusted padding for responsiveness */
+    }
+
+    .content {
+        font-size: 16px; /* Adjusted font size for responsiveness */
+    }
+
+    .table,
+    .table-2 {
+        margin: 10px 0; /* Adjusted margin for responsiveness */
+    }
+}
+
