@@ -547,7 +547,6 @@ svg:hover {
     }
 }
 
-<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
@@ -962,23 +961,27 @@ svg:hover {
 /* Additional styling for the button or any other elements */
 .footer {
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     margin-top: 80px;
     padding-top: 40px;
     margin-right: 80px;
     color: white;
     line-height: 40px;
     padding-left: 100px;
+    flex-wrap: nowrap;
+    
 }
 
 .content {
     margin-bottom: 20px;
+    
 }
 
 .contain {
     display: flex;
     justify-content: center;
     align-items: center;
+    
     color: gray;
 }
 
@@ -1011,18 +1014,18 @@ svg:hover {
     font-size: 18px;
     padding-bottom: 10px;
     font-weight: 500;
+    
 }
 
-.myapps {
-    width: 20%;
-    height: 10%;
-    left: 1000px;
-    position: absolute;
-}
+
+ 
+
 
 .myapps .imgs1 {
     height: 35px;
 }
+
+
 
 @media screen and (max-width: 768px) {
     .footer {
@@ -1055,11 +1058,6 @@ svg:hover {
 @media only screen and (max-width: 768px) {
     .nav {
         width: 60px;
-=======
-@media only screen and (max-width: 768px) {
-    .nav {
-        width: 60px; 
->>>>>>> 210f29f1b845eec984752df1ddef289f821b13fb
     }
 }
 
@@ -1086,7 +1084,6 @@ svg:hover {
 
     .heading {
         font-size: 16px; 
-<<<<<<< HEAD
     }
 }
 
@@ -1119,8 +1116,6 @@ svg:hover {
 
     .heading {
         font-size: 16px; 
-=======
->>>>>>> 210f29f1b845eec984752df1ddef289f821b13fb
     }
 
     .content h3 {
@@ -1135,4 +1130,3 @@ svg:hover {
         font-size: 12px;
     }
 }
-    
