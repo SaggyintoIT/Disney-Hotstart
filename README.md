@@ -1,9 +1,10 @@
 <h1><b>Hotstar-Clone</b></h1><br>
 Hosted Link - <a href="https://saggyintoit.github.io/Disney-Hotstart/index.html"> Click Here ! </a> <br>
-Github Repro Link :<a href="https://saggyintoit.github.io/Disney-Hotstart"> Click Here ! </a>
+Github Repro Link :<a href="https://saggyintoit.github.io/Disney-Hotstart"> Click Here ! </a><br>
 
 </hr>
-## Introduction:
+##Introduction:
+
 Welcome to the enchanting world of Disney+Hotstar, where magic meets entertainment! As one of the leading streaming platforms, Disney+Hotstar offers a captivating array of content that promises to transport you to realms of imagination, adventure, and nostalgia. Whether you're a fan of beloved Disney classics, thrilling Marvel superheroes, captivating Pixar animations, or gripping Star Wars sagas, there's something for everyone to enjoy. With an extensive library of movies, TV shows, original series, and live sports, Disney+Hotstar is your gateway to endless entertainment, all conveniently accessible at your fingertips. Get ready to embark on an unforgettable journey filled with laughter, tears, and moments that will stay with you forever, only on Disney+Hotstar.
 ---
 <hr>
