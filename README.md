@@ -35,7 +35,14 @@ Contribution
 3.
 4.
 5.
-6.
-7.
+
+## Getting Started:
+- To get started with the HackerRank Website Clone, follow these steps:
+  - Clone the Repository:
+  - Open the Project Directory:
+  - Open in a Code Editor: Open the project folder in your preferred code editor.
+  - Start the Application:
+       - Open the index.html file in your web browser or use a local development server if you have one configured.
+  - The application should now be running locally, rendering HTML, CSS.
 
 
