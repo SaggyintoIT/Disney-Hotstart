@@ -1,8 +1,6 @@
 <h1><b>Hotstar-Clone</b></h1><br>
-![Image](https://github.com/SaggyintoIT/Disney-Hotstart/blob/main/assests/git%20hub%20readme.png))
+![Image Description](https://github.com/SaggyintoIT/Disney-Hotstart/blob/main/assests/git%20hub%20readme.png)
 
-
-  
 Hosted Link - <a href="https://saggyintoit.github.io/Disney-Hotstart/index.html"> Click Here ! </a> <br>
 Github Repro Link :<a href="https://saggyintoit.github.io/Disney-Hotstart"> Click Here ! </a>
 
