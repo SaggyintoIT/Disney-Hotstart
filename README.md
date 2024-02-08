@@ -1,7 +1,9 @@
-<h1><b>Hotstar-Clone</b></h1>
-<screenshot>
+<h1><b>Hotstar-Clone</b></h1><br>
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hotstar.com%2Fhotstar-x-rebuilding-the-disney-hotstar-experience-6b0b3714513f&psig=AOvVaw3ynCR5uemCpx4fZQfPj8Kd&ust=1707456213077000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjQ4pmAm4QDFQAAAAAdAAAAABAE)
+
   
-Hosted Link - <a href="https://saggyintoit.github.io/Disney-Hotstart/index.html"> Click Here ! </a>
+Hosted Link - <a href="https://saggyintoit.github.io/Disney-Hotstart/index.html"> Click Here ! </a> <br>
+Github Repro Link :<a href="https://saggyintoit.github.io/Disney-Hotstart"> Click Here ! </a>
 
 </hr>
 
@@ -30,12 +32,24 @@ To experience the Disney+ Hotstar Clone, follow these <b>steps</b>:
 Feel free to explore the Disney+ Hotstar Clone and use it for your entertainment needs. You can also customize and extend the project to suit your specific requirements or learn from it to build your own streaming platform.
 <hr>
 Contribution
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+<br>
+1.<a href="https://github.com/Himanshu001-U">Himanshu</a>
+<br>
+2.<a href="https://github.com/SaggyintoIT">Sagar Kumar</a>
+<br>
+3.<a href="https://github.com/simajadhav63">Sima Jadhav</a>
+<br>
+4.<a href="https://github.com/Rohityadavsky">Rohit Yadav</a>
+<br>
+5.<a href="https://github.com/Manish-Kumar-Ram">Manish Kumar</a>
+
+## Getting Started:
+- To get started with the HackerRank Website Clone, follow these steps:
+  - Clone the Repository:
+  - Open the Project Directory:
+  - Open in a Code Editor: Open the project folder in your preferred code editor.
+  - Start the Application:
+       - Open the index.html file in your web browser or use a local development server if you have one configured.
+  - The application should now be running locally, rendering HTML, CSS.
 
 
