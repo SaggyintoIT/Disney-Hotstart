@@ -30,11 +30,15 @@ To experience the Disney+ Hotstar Clone, follow these <b>steps</b>:
 Feel free to explore the Disney+ Hotstar Clone and use it for your entertainment needs. You can also customize and extend the project to suit your specific requirements or learn from it to build your own streaming platform.
 <hr>
 Contribution
-1.
-2.
-3.
-4.
-5.
+1.<a href="https://github.com/Himanshu001-U">Himanshu</a>
+<br>
+2.<a href=" https://github.com/SaggyintoIT">Sagar Kumar </a>
+<br>
+3.<a href="https://github.com/simajadhav63">Sima Jadhav</a>
+<br>
+4.<a href="https://github.com/Rohityadavsky">Rohit Yadav</a>
+<br>
+5.<a href="https://github.com/Manish-Kumar-Ram">Manish Kumar</a>
 
 ## Getting Started:
 - To get started with the HackerRank Website Clone, follow these steps:
