@@ -1,5 +1,5 @@
 <h1><b>Hotstar-Clone</b></h1><br>
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hotstar.com%2Fhotstar-x-rebuilding-the-disney-hotstar-experience-6b0b3714513f&psig=AOvVaw3ynCR5uemCpx4fZQfPj8Kd&ust=1707456213077000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjQ4pmAm4QDFQAAAAAdAAAAABAE)
+![hotstar](https://github.com/SaggyintoIT/Disney-Hotstart/blob/main/assests/git%20hub%20readme.png)<br>
 
   
 Hosted Link - <a href="https://saggyintoit.github.io/Disney-Hotstart/index.html"> Click Here ! </a> <br>
